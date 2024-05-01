@@ -13,4 +13,4 @@ STEP1_extract_filtered_ssh.ipynb: Carry out goal 1 for an ensemble of monthly da
 STEP2_case_study_figures.ipynb:  Carry out goal 2 and goal 3 for one case study date and produce figures
 STEP2_run_ensemble.ipynb:  Carry out goals 2 and 3 for the ensemble of monthly data files and produce ensemble statistics and figures
 
-The details of the method are discussed in a manuscript to be submitted to J. Tech.
+The details of the method are discussed in a manuscript submitted to J. Tech.
